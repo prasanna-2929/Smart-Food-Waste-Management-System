@@ -1,4 +1,4 @@
-# AI-Based Food Waste Management System
+# Smart Food Waste Management System
 
 A beginner-friendly Streamlit web application that combines:
 - AI food image classification using a pretrained Hugging Face model
