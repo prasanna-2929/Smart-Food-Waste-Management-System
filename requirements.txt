@@ -1,0 +1,4 @@
+streamlit>=1.35
+pillow>=10.0
+transformers>=4.40
+torch
